@@ -39,7 +39,7 @@ Top picture is some randomly selected image from my digital arts rare stuff hist
 Top image published under GNUGPLv3 Lisence and it's allowed to copy in this situation to show some art that i have not make my self. Just for making the equal effect to get point to learn maybe something from 1337 hackers or just say programmers who have make these images with programming to CPU drawn them to them i suggest. This image is from imagesmagic website.(see i give the original link for its owner, so could you do if you use my art or use my applications allways point link to the source code and the original page wheres the images/code is downloaded.
 
 <br><br>
-<TAG FOR MY SELF>Saving for now: Check linkkaa.jpg and monkey.jpg<TAG FOR MY SELF>
+TAG FOR MY SELF>Saving for now: Check linkkaa.jpg and monkey.jpg TAG FOR MY SELF
 <FONT COLOUR="RED">
 <START OF README.md>
 </font>
