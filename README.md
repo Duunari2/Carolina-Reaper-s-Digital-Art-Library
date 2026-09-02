@@ -1,6 +1,6 @@
 # Carolina-Reaper-s-Digital-Art-Library
 <html>
-  <font colour="pink>
+  <font colour="pink">
 My digital art added here, because github does not remove the metadata and does not profile or keep logs from us.. I love github  &lt;3&lt;3
 
 START OF ORIGINAL README.md THAT WILL BE ADDED AFTER THIS TO EVERY OF MY REPOSITORY AS PRIMITIVE
