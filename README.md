@@ -1,6 +1,6 @@
 # Carolina-Reaper-s-Digital-Art-Library
-<HTML>
-<BODY BG COLOR="YELLOW">
+<html>
+  <font color="pink>
 My digital art added here, because github does not remove the metadata and does not profile or keep logs from us.. I love github  &lt;3&lt;3
 
 <TAG START OF ORIGINAL README.md THAT WILL BE ADDED AFTER THIS TO EVERY OF MY REPOSITORY AS PRIMITIVE TAG>
@@ -20,6 +20,5 @@ My digital art added here, because github does not remove the metadata and does 
 <PLEASE KEEP MIRRORING STRAIGHT TO THIS GITHUB PAGE>
 <FONT COLOUR="RED">
 <TAG START OF README.md TAG0>
-</TAG>FONT>
-</BODY>
-</FONT></PLEASE></HTML>
+</font>
+</html>
